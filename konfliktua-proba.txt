@@ -1,6 +1,6 @@
 KONFLIKTU PROBA - CMS taldeko lana
 
-Erabiliko dugun CMSa: Drupal
+Erabiliko dugun CMSa: Joomla
 
 Arduraduna: Suhar
 
