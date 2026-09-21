@@ -1,0 +1,23 @@
+Joomla CMS
+
+Joomla edukiak kudeatzeko sistema bat da, hau da, CMS (Content Management System) bat. Joomla erabiliz webguneak sortu, antolatu eta administratu daitezke, programazio ezagutza handirik izan gabe.
+
+Gainera hainbat ezaugarri interesgarri ditu, adibidez;
+Edukiak kudeatzea: artikuluak, irudiak eta bestelako edukiak sortu eta editatu daitezke.
+Erabiltzaileak kudeatzea: erabiltzaile desberdinak sortu daitezke eta bakoitzari baimen zehatzak eman.
+Txantiloiak: webgunearen diseinua aldatzeko eta pertsonalizatzeko txantiloiak erabil daitezke.
+Luzapenak: funtzionalitate berriak gehitzeko luzapenak instalatu daitezke.
+Kategorien antolaketa: edukiak kategorietan antolatu daitezke, webgunea hobeto egituratzeko.
+Administrazio-panela: webgunearen edukia eta konfigurazioa leku zentral batetik kudeatu daitezke.
+
+Joomla-ren abantaila nagusietako bat da webgune baten edukiak modu errazean kudeatzeko aukera ematen duela. Gainera, pertsonalizatzeko aukera ugari ditu eta erabiltzaile eta baimen desberdinak konfiguratu daitezke.
+
+Bestalde, Joomla kode irekiko CMS bat da, eta horrek esan nahi du garatzaileek sistema aldatu eta hobetu dezaketela.
+
+4. Joomla erabiltzen duen webgune baten adibidea
+
+Joomla erabiltzen duen webgune baten adibide gisa Joomla.org bera erabil daiteke. Joomla proiektuaren webgune ofiziala da eta Joomla CMSari buruzko informazioa, dokumentazioa eta baliabideak eskaintzen ditu.
+
+5. Zergatik aukeratu Joomla?
+
+Joomla aukeratu dut CMS interesgarria delako eta webgune bateko edukiak, erabiltzaileak eta diseinua kudeatzeko aukera ematen duelako. Gainera, WordPress ez den CMS bat da, eta horregatik egokia da ariketa honetan.
