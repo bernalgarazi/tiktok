@@ -1,0 +1,73 @@
+CMS Dokumentua: Drupal
+
+1. Zein CMS aztertuko dugu?
+
+Aukeratutako CMSa Drupal da. Dries Buytaert belgikarrak sortu zuen 2001ean, eta PHP lengoaian idatzitako kode irekiko edukiak kudeatzeko sistema bat da (GNU GPL lizentzia). Gaur egungo bertsio egonkorra Drupal 11 da (11.3.2 bertsioa, 2026ko urtarrilaren 8an argitaratua).
+
+Erabilera-datuei dagokienez, W3Techs atariaren arabera (2026ko iraila), interneteko webgune guztien % 0,6k erabiltzen dute Drupal; CMS ezagun bat duten webguneen artean, berriz, % 0,9k. WordPress-ek, aldiz, webgune guztien % 40,2 hartzen du. Beraz, Drupal askoz txikiagoa da kopuruz, baina pisu handia du proiektu handi, konplexu eta instituzionaletan.
+
+2. Drupal-en ezaugarri nagusiak
+
+    1-Kode irekia (Open Source) eta doakoa: ez dago lizentziarik ordaindu beharrik; edonork deskargatu, aldatu eta bere beharretara egokitu dezake.
+
+    2-Eduki egituratua: eduki motak (content types), eremuak (fields), taxonomia eta Views tresnaren bidez, edozein datu-egitura pertsonalizatu daiteke kodea idatzi gabe.
+
+    3-Erabiltzaile eta baimen sistema oso zehatza: rol bakoitzari zehatz-mehatz esleitu dakioke zer ikusi, sortu, editatu edo argitaratu dezakeen. Langile asko dituzten erakundeetan oso baliagarria da.
+
+    4-Eleaniztasuna oinarrian: 100 hizkuntza baino gehiago onartzen ditu core-an bertan, gehigarririk instalatu gabe. Interfazea eta edukia hizkuntza bakoitzean kudea daitezke, euskara barne.
+
+    5-Segurtasuna: Drupalek segurtasun talde ofizial bat du, ahultasunak aztertu eta adabakiak modu antolatuan argitaratzen dituena. Horregatik aukeratzen dute gobernuek, unibertsitateek eta erakunde handiek.
+
+    6-API-first ikuspegia: JSON:API core-an dakar; beraz, "headless" moduan ere erabil daiteke, edukia aplikazio mugikorrei edo beste sistema bati emateko.
+
+3. Abantailak
+
+    1-Segurtasun handia: azpiegitura sendoa eta eguneraketa-politika zorrotza; datu sentikorrak kudeatzen dituzten webguneentzat aproposa.
+
+    2-Eskalagarritasuna: milaka edukiko eta trafiko handiko webguneak arazorik gabe kudeatzen ditu.
+
+    3-Eleaniztasun bikaina: hizkuntza anitzeko webguneak core-arekin bertan egin daitezke, WordPress-en ez bezala (han gehigarriak behar dira).
+
+    4-Malgutasun handia eduki konplexuetan: datu-egitura propioak sortzeko aukera ematen du, eta ez du blog egitura bat inposatzen.
+
+    5-Baimen sistema aurreratua: erabiltzaile eta rol askoren arteko lan-fluxuak kontrolatzeko aukera.
+
+    6-Multisite: instalazio bakar batetik webgune asko kudea daitezke, baliabideak partekatuz.
+
+4. Desabantailak
+
+    1-Ikasteko kurba handia: WordPress baino askoz zailagoa da hasiberrientzat; kontzeptu propio asko ditu (nodoak, hook-ak, Views, txantiloi sistema).
+
+    2-Garapen kostu handiagoa: Drupal garatzaile gutxiago daude eta, ondorioz, lana garestiagoa izan ohi da.
+
+    3-Modulu eta txantiloi gutxiago: WordPress-ek milaka plugin eta gai ditu; Drupalen eskaintza txikiagoa da.
+
+    4-Bertsio arteko migrazio zailak: bertsio nagusi batetik bestera pasatzea (adibidez, Drupal 7tik 8ra) proiektu oso bat izan daiteke, ez eguneraketa sinple bat.
+
+    5-Baliabide gehiago behar ditu: zerbitzariaren eskakizunak (memoria, prozesadorea) altuagoak dira ostatu partekatu merke batentzat.
+
+    6-Komunitate txikiagoa: laguntza, tutorialak eta euskarazko dokumentazioa aurkitzea zailagoa da.
+
+5. CMS hau erabiltzen duen webgune baten adibidea
+
+Webgunea: Europako Batzordea (European Commission)
+
+URLa: https://commission.europa.eu
+
+Zergatik erabiltzen du Europako Batzordeak Drupal?
+
+Europako Batzordeak 70 webgune estandarizatu baino gehiago ditu Drupalen oinarrituta, baita Europar Batasuneko estatu kide bakoitzeko ordezkaritza-webguneak ere. Eduki juridiko eta instituzional guztia EBko hizkuntza ofizialetan argitaratu behar dute, eta horretarako Drupalen eleaniztasuna eta multisite sistema funtsezkoak dira. Gainera, segurtasun eskakizun oso zorrotzak dituzte eta kode irekiak ez die hornitzaile bakar baten menpe egotera behartzen. Batzordeak berak OpenEuropa proiektuaren bidez kode irekian partekatzen ditu bere Drupal moduluak.
+
+6. Ondorioa: Drupal ala WordPress?
+
+WordPress aukera hobea da webgune txiki eta ertainetarako, blogetarako eta azkar eta merke abian jarri behar diren proiektuetarako.
+
+Drupal, berriz, erakunde handientzat, administrazio publikoentzat, unibertsitateentzat eta eduki egituratu, eleaniztun edo segurtasun handiko proiektuentzat da egokiagoa.
+
+Iturriak:
+- https://w3techs.com/technologies/details/cm-drupal
+- https://new.drupal.org/about/11
+- https://en.wikipedia.org/wiki/Drupal
+- https://new.drupal.org/european-commission-and-european-union-institutions-agencies-and-bodies
+
+
