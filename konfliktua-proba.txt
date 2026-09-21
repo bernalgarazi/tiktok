@@ -1,9 +1,7 @@
 KONFLIKTU PROBA - CMS taldeko lana
 
-Erabiliko dugun CMSa: ORAINDIK ERABAKITZEKO
+Erabiliko dugun CMSa: Joomla
 
 Arduraduna: ORAINDIK ERABAKITZEKO
 
-Oharrak: fitxategi hau git-en konfliktuak nola sortzen diren ikasteko da.
-
-
+Oharrak: fitxategi hau git-en konfliktuak nola sortzen diren ikasteko da. Garazik idatzia.
